@@ -4,14 +4,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Nayan Kar</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer |Problem Solver (C++ & DSA)|ML Enthusiast | Innovating from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate Software Engineer |Problem Solver (C++ & DSA)| Ai/ML Enthusiast | Innovating from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🚀 I’m currently working on Full-Stack & ML Projects
 
-- 📱 I’m currently learning React Native & Advanced DSA
+- 📱 I’m currently learning Langchain & Advanced DSA
 
-- 💡 Ask me about Machine Learning, Full-Stack Development, and DSA (C++)
+- 💡 Ask me about Machine Learning, Backend Development, and DSA (C++)
 
 - 📧 How to reach me [nkar90276@gmail.com]
 
