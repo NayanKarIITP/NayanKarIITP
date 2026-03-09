@@ -1,36 +1,181 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94316b72-f0c9-48c2-8ca2-d8944a22d96a" width="600" height="auto" >
+  <img src="https://github.com/user-attachments/assets/94316b72-f0c9-48c2-8ca2-d8944a22d96a" width="600"/>
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Nayan Kar</h1>
-<h3 align="center">🚀 Passionate Software Engineer |Problem Solver (C++ & DSA)| Ai/ML Enthusiast | Innovating from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">🚀 Software Engineer | C++ & DSA Problem Solver | AI/ML Enthusiast | IIT Patna 🇮🇳</h3>
 
-- 🚀 I’m currently working on Full-Stack & ML Projects
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 📱 I’m currently learning Langchain & Advanced DSA
+---
 
-- 💡 Ask me about Machine Learning, Backend Development, and DSA (C++)
+## 🎯 About Me
 
-- 📧 How to reach me [nkar90276@gmail.com]
+- 🎓 B.S. in **Computer Science & Data Analytics at IIT Patna**
+- 💻 Passionate about **Full Stack Development + Machine Learning**
+- 🧠 Strong interest in **DSA, System Design, and AI systems**
+- 🚀 Currently building **AI + Full Stack Projects**
+- 🌱 Learning **LangChain, Advanced DSA, and Scalable Backend Systems**
+- ⚡ Fun fact: I love **cricket and solving algorithmic problems**
 
-- 🎯 Fun fact I love cricket and solving complex problems!
+📧 **Email:** nkar90276@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/@nayankar196076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nayankar196076" height="30" width="40" /></a>
-<a href="https://kaggle.com/nayankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nayankar" height="30" width="40" /></a>
-<a href="https://fb.com/nayan kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayan kar" height="30" width="40" /></a>
-<a href="https://instagram.com/_n___aya___n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_n___aya___n_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nayan5670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayan5670" height="30" width="40" /></a>
+<a href="https://twitter.com/@nayankar196076"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://kaggle.com/nayankar"><img src="https://skillicons.dev/icons?i=kaggle"/></a>
+<a href="https://instagram.com/_n___aya___n_"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.leetcode.com/nayan5670"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
+<a href="mailto:nayan101kar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayankariitp&show_icons=true&locale=en&layout=compact" alt="nayankariitp" /></p>
+# 🧰 Tech Stack
 
+## 👨‍💻 Programming Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css"/>
+</p>
 
+---
+
+## ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,bootstrap"/>
+</p>
+
+---
+
+## 🧠 Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- Matplotlib  
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nayankariitp&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayankariitp&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayankariitp&theme=tokyonight"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 AI Career Copilot — Backend
+**Tech:** Node.js, Express, MongoDB, Python FastAPI, AI APIs
+
+AI-powered career assistant platform that helps students plan their careers using intelligent analysis.
+
+**Key Features**
+- Resume parsing and skill extraction
+- Skill gap analysis
+- Personalized learning roadmap generation
+- Market trend analysis for tech roles
+- AI-powered interview preparation assistant
+- Microservice architecture using **Node.js + FastAPI**
+
+---
+
+### 🔹 Hospital Management System
+**Tech:** Node.js, Express, MongoDB
+
+A backend system to manage hospital operations efficiently.
+
+**Key Features**
+- Patient registration and record management
+- Doctor scheduling
+- Appointment booking system
+- Secure authentication and role-based access
+- REST API architecture for scalable hospital systems
+
+---
+
+### 🔹 Learning Resource Recommendation System
+**Tech:** Python, FastAPI, Pandas, Machine Learning
+
+A backend system that recommends learning resources based on **student performance and engagement data**.
+
+**Backend Workflow**
+
+1️⃣ Loads **OULAD dataset** from `/data`  
+Used to generate:
+- Student interaction matrix  
+- Engagement metrics  
+- Performance analytics  
+- Resource usage patterns  
+
+2️⃣ Loads metadata
+- `students.csv` — student IDs and names  
+- `resources.csv` — learning resource catalog  
+
+3️⃣ Computes recommendations dynamically  
+Recommendation logic runs directly in **main.py** without using pre-trained `.npy` models.
+
+4️⃣ Provides multiple API endpoints
+
+| Endpoint | Description |
+|--------|-------------|
+| `/students/search` | Student autocomplete search |
+| `/recommend` | Learning resource recommendations |
+| `/performance` | Overall student performance |
+| `/performance/detail` | Assessment performance trends |
+| `/engagement` | Weekly engagement analytics |
+
+---
+
+# 🧠 Problem Solving
+
+- Solved 200+ DSA problems across platforms
+- Strong in Data Structures & Algorithms (C++)
+- Focused on Graphs, DP, Trees, and System Design
+
+⭐ *Building intelligent systems that combine Back-end Engineering and AI/Ml.*
+
+⭐ *Turning ideas into scalable software solutions.*
 
