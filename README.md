@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Software Engineering Student @ IIT Patna  
+Student @ IIT Patna  
 Backend Systems • AI/ML • Scalable Software
 </p>
 
@@ -210,6 +210,10 @@ Strong topics
 
 <a href="https://codeforces.com/profile/UJ_Ni_Nay">
 <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge">
+</a>
+
+<a href="https://leetcode.com/u/Nayan5670/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <a href="mailto:nayan101kar@gmail.com">
