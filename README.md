@@ -1,107 +1,74 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/94316b72-f0c9-48c2-8ca2-d8944a22d96a" width="600"/>
-</p>
+<!-- HEADER BANNER -->
 
 <h1 align="center">Hi 👋, I'm Nayan Kar</h1>
-<h3 align="center">🚀 Software Engineer | C++ & DSA Problem Solver | AI/ML Enthusiast | IIT Patna 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
----
-
-## 🎯 About Me
-
-- 🎓 B.S. in **Computer Science & Data Analytics at IIT Patna**
-- 💻 Passionate about **Full Stack Development + Machine Learning**
-- 🧠 Strong interest in **DSA, System Design, and AI systems**
-- 🚀 Currently building **AI + Full Stack Projects**
-- 🌱 Learning **LangChain, Advanced DSA, and Scalable Backend Systems**
-- ⚡ Fun fact: I love **cricket and solving algorithmic problems**
-
-📧 **Email:** nkar90276@gmail.com
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/@nayankar196076"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://kaggle.com/nayankar"><img src="https://skillicons.dev/icons?i=kaggle"/></a>
-<a href="https://instagram.com/_n___aya___n_"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://www.leetcode.com/nayan5670"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
-<a href="mailto:nayan101kar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;C%2B%2B+DSA+Problem+Solver;IIT+Patna+Student&center=true&width=500&height=45">
 </p>
+
+<p align="center">
+🚀 Software Engineer | AI/ML Enthusiast | Back-end Developer  
+</p>
+
+---
+
+# 🎯 About Me
+
+💻 B.S. in **Computer Science & Data Analytics — IIT Patna**
+
+🧠 Interested in building **AI-powered intelligent systems**
+
+🚀 Currently working on
+
+- AI Career Copilot
+- Backend Systems
+- Machine Learning Projects
+
+📚 Currently learning
+
+- LangChain
+- System Design
+- Advanced DSA
+
+⚡ Fun fact  
+I enjoy **cricket and solving algorithm problems**
 
 ---
 
 # 🧰 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css"/>
-</p>
-
----
-
-## ⚙️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,bootstrap"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
 
 ---
 
-## 🧠 Machine Learning & Data Science
+### ⚙️ Frameworks & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-- Pandas  
-- NumPy  
-- Scikit-Learn  
-- Matplotlib  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
 ---
 
-## 🗄️ Databases
+### 🧠 Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma"/>
-</p>
+![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 
 ---
 
-# 📊 GitHub Analytics
+### 🗄 Databases
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nayankariitp&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayankariitp&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayankariitp&theme=tokyonight"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
