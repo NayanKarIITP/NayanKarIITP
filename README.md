@@ -1,148 +1,231 @@
-<!-- HEADER BANNER -->
-
 <h1 align="center">Hi 👋, I'm Nayan Kar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;C%2B%2B+DSA+Problem+Solver;IIT+Patna+Student&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;AI+%26+ML+Engineer;C%2B%2B+DSA+Problem+Solver;IIT+Patna+Student&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-🚀 Software Engineer | AI/ML Enthusiast | Back-end Developer  
+Software Engineering Student @ IIT Patna  
+Backend Systems • AI/ML • Scalable Software
 </p>
 
 ---
 
 # 🎯 About Me
 
-💻 B.S. in **Computer Science & Data Analytics — IIT Patna**
+🎓 **B.S Computer Science & Data Analytics — IIT Patna**  
+📊 CPI **8.03 / 10**
 
-🧠 Interested in building **AI-powered intelligent systems**
+💻 Backend-focused developer experienced in building
 
-🚀 Currently working on
+• Scalable REST APIs  
+• Real-time systems  
+• AI-powered applications  
+• Full-stack platforms  
 
-- AI Career Copilot
-- Backend Systems
-- Machine Learning Projects
+🚀 Currently interested in
 
-📚 Currently learning
-
-- LangChain
-- System Design
-- Advanced DSA
-
-⚡ Fun fact  
-I enjoy **cricket and solving algorithm problems**
+• Backend Engineering  
+• Machine Learning Systems  
+• Distributed Systems  
+• Scalable Architecture  
 
 ---
 
-# 🧰 Tech Stack
+# 🧠 Experience
 
-### 👨‍💻 Programming Languages
+## Software Engineering Research Intern — IIT Patna
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+Built scalable backend services and APIs for research applications.
 
----
+**Key Contributions**
 
-### ⚙️ Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-
----
-
-### 🧠 Machine Learning
-
-![Scikit](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
----
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+• Designed modular **Node.js / FastAPI backend services**  
+• Optimized **MongoDB queries to reduce response latency**  
+• Implemented **authentication & RBAC authorization**  
+• Built structured workflows for **automated decision systems**
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔹 AI Career Copilot — Backend
-**Tech:** Node.js, Express, MongoDB, Python FastAPI, AI APIs
+## AI Career Copilot
 
-AI-powered career assistant platform that helps students plan their careers using intelligent analysis.
+AI-powered career assistant platform.
 
-**Key Features**
-- Resume parsing and skill extraction
-- Skill gap analysis
-- Personalized learning roadmap generation
-- Market trend analysis for tech roles
-- AI-powered interview preparation assistant
-- Microservice architecture using **Node.js + FastAPI**
+Features
 
----
+• Resume parsing and evaluation  
+• Interview feedback system  
+• Emotion & pose detection via video analysis  
+• Secure file uploads and inference pipeline  
 
-### 🔹 Hospital Management System
-**Tech:** Node.js, Express, MongoDB
+Tech Stack
 
-A backend system to manage hospital operations efficiently.
 
-**Key Features**
-- Patient registration and record management
-- Doctor scheduling
-- Appointment booking system
-- Secure authentication and role-based access
-- REST API architecture for scalable hospital systems
+Node.js
+Express
+MongoDB
+Python FastAPI
+AI Models
+
 
 ---
 
-### 🔹 Learning Resource Recommendation System
-**Tech:** Python, FastAPI, Pandas, Machine Learning
+## TechTribe — Developer Networking Platform
 
-A backend system that recommends learning resources based on **student performance and engagement data**.
+A real-time developer networking platform.
 
-**Backend Workflow**
+Features
 
-1️⃣ Loads **OULAD dataset** from `/data`  
-Used to generate:
-- Student interaction matrix  
-- Engagement metrics  
-- Performance analytics  
-- Resource usage patterns  
+• Friend request system  
+• Accept / reject connection workflow  
+• Real-time messaging using WebSockets  
+• JWT authentication & protected APIs  
 
-2️⃣ Loads metadata
-- `students.csv` — student IDs and names  
-- `resources.csv` — learning resource catalog  
+Tech Stack
 
-3️⃣ Computes recommendations dynamically  
-Recommendation logic runs directly in **main.py** without using pre-trained `.npy` models.
 
-4️⃣ Provides multiple API endpoints
+React
+Node.js
+MongoDB
+WebSockets
+JWT
 
-| Endpoint | Description |
-|--------|-------------|
-| `/students/search` | Student autocomplete search |
-| `/recommend` | Learning resource recommendations |
-| `/performance` | Overall student performance |
-| `/performance/detail` | Assessment performance trends |
-| `/engagement` | Weekly engagement analytics |
 
 ---
 
-# 🧠 Problem Solving
+## Student Learning Analytics System
 
-- Solved 200+ DSA problems across platforms
-- Strong in Data Structures & Algorithms (C++)
-- Focused on Graphs, DP, Trees, and System Design
+Analytics dashboard for analyzing student engagement and performance.
 
-⭐ *Building intelligent systems that combine Back-end Engineering and AI/Ml.*
+Features
 
-⭐ *Turning ideas into scalable software solutions.*
+• Learning analytics dashboard  
+• Resource recommendation engine  
+• Matrix factorization model  
+• REST prediction APIs  
 
+Tech Stack
+
+
+Python
+FastAPI
+Machine Learning
+REST APIs
+
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+### Backend
+
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+---
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🧩 Problem Solving
+
+• **250+ DSA Problems Solved (LeetCode)**  
+• **Codeforces Rating: 1095**
+
+Codeforces Profile
+
+https://codeforces.com/profile/UJ_Ni_Nay
+
+Strong topics
+
+• Graphs  
+• Dynamic Programming  
+• Trees  
+• Sliding Window  
+• System Design
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nayankariitp&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayankariitp&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayankariitp&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://codeforces.com/profile/UJ_Ni_Nay">
+<img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge">
+</a>
+
+<a href="mailto:nayan101kar@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nayankariitp&color=blue">
+
+</p>
+
+---
+
+⭐ Building scalable systems and intelligent software.
