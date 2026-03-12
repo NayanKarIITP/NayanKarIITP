@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Kar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;AI+%26+ML+Engineer;C%2B%2B+DSA+Problem+Solver;IIT+Patna+Student&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;AI+%26+ML+Engineer;C%2B%2B+DSA+Problem+Solver&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -12,9 +12,6 @@ Backend Systems • AI/ML • Scalable Software
 ---
 
 # 🎯 About Me
-
-🎓 **B.S Computer Science & Data Analytics — IIT Patna**  
-📊 CPI **8.03 / 10**
 
 💻 Backend-focused developer experienced in building
 
