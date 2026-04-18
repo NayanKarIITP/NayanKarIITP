@@ -201,9 +201,6 @@ Strong topics
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://codeforces.com/profile/UJ_Ni_Nay">
-<img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge">
-</a>
 
 <a href="https://leetcode.com/u/Nayan5670/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
