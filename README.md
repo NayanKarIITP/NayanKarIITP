@@ -159,11 +159,7 @@ REST APIs
 # 🧩 Problem Solving
 
 • **250+ DSA Problems Solved (LeetCode)**  
-• **Codeforces Rating: 1095**
 
-Codeforces Profile
-
-https://codeforces.com/profile/UJ_Ni_Nay
 
 Strong topics
 
