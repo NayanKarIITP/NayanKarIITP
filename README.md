@@ -17,8 +17,7 @@ Backend Systems • AI/ML • Scalable Software
 
 • Scalable REST APIs  
 • Real-time systems  
-• AI-powered applications  
-• Full-stack platforms  
+• AI/ML-powered applications  
 
 🚀 Currently interested in
 
@@ -26,21 +25,6 @@ Backend Systems • AI/ML • Scalable Software
 • Machine Learning Systems  
 • Distributed Systems  
 • Scalable Architecture  
-
----
-
-# 🧠 Experience
-
-## Software Engineering Research Intern — IIT Patna
-
-Built scalable backend services and APIs for research applications.
-
-**Key Contributions**
-
-• Designed modular **Node.js / FastAPI backend services**  
-• Optimized **MongoDB queries to reduce response latency**  
-• Implemented **authentication & RBAC authorization**  
-• Built structured workflows for **automated decision systems**
 
 ---
 
@@ -76,7 +60,7 @@ A real-time developer networking platform.
 Features
 
 • Friend request system  
-• Accept / reject connection workflow  
+• Accept/reject connection workflow  
 • Real-time messaging using WebSockets  
 • JWT authentication & protected APIs  
 
